@@ -1,7 +1,6 @@
 let c = 'C is fun';
-let python = 'Python is coo1';
-let js ='JavaScript is amazing';
-
 console.log(c);
+let python = 'Python is coo1';
 console.log(python);
+let js ='JavaScript is amazing';
 console.log(js);
