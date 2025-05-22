@@ -1,8 +1,3 @@
-const [ , , raw ] = process.argv;
+const lines = ["C is fun", "Python is cool", "JavaScript is amazing"];
 
-if (/^-?\d+$/.test(raw)) {
-  const num = parseInt(raw, 10);
-  console.log(`My number: ${num}`);
-} else {
-  console.log("Not a number");
-}
+for (let i = 0; i < lines.length; i++) console.log(lines[i]);
