@@ -1,6 +1,3 @@
-let c = 'C is fun';
-console.log(c);
-let python = 'Python is coo1';
-console.log(python);
-let js ='JavaScript is amazing';
-console.log(js);
+console.log('C is fun');
+console.log('Python is coo1');
+console.log('JavaScript is amazing');
